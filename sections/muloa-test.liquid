@@ -1,11 +1,22 @@
-<div class="muloa">
-  <div></div>
+<div class="muloa" data-id="{{ block.id }}">
+  <div><h2>{{ block.settings.heading }}</h2></div>
 </div>
 
 {% schema %}
   {
-    "name": "Section name",
-    "settings": []
+    "name": "Muloa",
+    "settings": [
+		{
+        "type": "text",
+        "id": "heading",
+        "label": "Heading",
+        "default": 
+			{
+				"en":"en",
+				"cn":"cn"
+			}
+     	 }
+	]
   }
 {% endschema %}
 
