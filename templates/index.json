@@ -7,7 +7,7 @@
           "type": "shopify:\/\/apps\/muloa\/blocks\/app-block\/460d93b9-235b-401d-ab0d-7fda966b7d31",
           "settings": {
             "heading": "Closun-image",
-            "description": "A simple app block that shows a grid of images that can be customized by the merchant. Each image can be selected to show a popup with the full-sized image."
+            "description": "Lucky Dog!"
           }
         }
       },
@@ -25,7 +25,7 @@
           "type": "shopify:\/\/apps\/muloa\/blocks\/app-block\/460d93b9-235b-401d-ab0d-7fda966b7d31",
           "settings": {
             "heading": "云启阳图片测试",
-            "description": "A simple app block that shows a grid of images that can be customized by the merchant. Each image can be selected to show a popup with the full-sized image."
+            "description": "幸运的小狗狗！"
           }
         }
       },
