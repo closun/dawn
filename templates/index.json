@@ -1,5 +1,23 @@
 {
   "sections": {
+    "16368287856434f6d4": {
+      "type": "apps",
+      "blocks": {
+        "f1aca810-2a45-4f53-8647-0f786bc934f4": {
+          "type": "shopify:\/\/apps\/muloa\/blocks\/app-block\/460d93b9-235b-401d-ab0d-7fda966b7d31",
+          "settings": {
+            "heading": "Closun-image",
+            "description": "A simple app block that shows a grid of images that can be customized by the merchant. Each image can be selected to show a popup with the full-sized image."
+          }
+        }
+      },
+      "block_order": [
+        "f1aca810-2a45-4f53-8647-0f786bc934f4"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -180,6 +198,7 @@
     }
   },
   "order": [
+    "16368287856434f6d4",
     "image_banner",
     "rich_text",
     "featured_products",
