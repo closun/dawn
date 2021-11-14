@@ -42,7 +42,9 @@
         "9a86a657-99e3-44b6-aef9-75e686f55342": {
           "type": "shopify:\/\/apps\/mulob\/blocks\/app-block\/edfc7fbe-5d7b-4a95-9545-176a0eacdb72",
           "settings": {
-            "abackground": "#008066",
+            "mulobfloat": "right",
+            "marginbottom": "156px",
+            "abackground": "rgba(0,0,0,.7)",
             "aheight": "86px"
           }
         }
