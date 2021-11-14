@@ -44,7 +44,7 @@
           "settings": {
             "mulobfloat": "right",
             "marginbottom": "156px",
-            "abackground": "rgba(0,0,0,.7)",
+            "abackground": "rgba(0,0,0,.3)",
             "aheight": "86px"
           }
         }
