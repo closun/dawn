@@ -36,10 +36,10 @@
         "include_margins": true
       }
     },
-    "16369062177126e27b": {
+    "16369084206f571250": {
       "type": "apps",
       "blocks": {
-        "40dfb3bc-d28e-4d08-bb3c-213caa57b62f": {
+        "2d7c1a87-5fba-4213-8fdb-6aaefc472b6b": {
           "type": "shopify:\/\/apps\/mulob\/blocks\/app-block\/edfc7fbe-5d7b-4a95-9545-176a0eacdb72",
           "settings": {
             "cosa": "right",
@@ -53,7 +53,7 @@
         }
       },
       "block_order": [
-        "40dfb3bc-d28e-4d08-bb3c-213caa57b62f"
+        "2d7c1a87-5fba-4213-8fdb-6aaefc472b6b"
       ],
       "settings": {
         "include_margins": true
@@ -63,6 +63,6 @@
   "order": [
     "16368287856434f6d4",
     "163682936601c62630",
-    "16369062177126e27b"
+    "16369084206f571250"
   ]
 }
