@@ -42,10 +42,13 @@
         "9a86a657-99e3-44b6-aef9-75e686f55342": {
           "type": "shopify:\/\/apps\/mulob\/blocks\/app-block\/edfc7fbe-5d7b-4a95-9545-176a0eacdb72",
           "settings": {
-            "mulobfloat": "right",
-            "marginbottom": "156px",
-            "abackground": "rgba(205,133,133,.5)",
-            "aheight": "86px"
+            "cosa": "right",
+            "cosb": "156px",
+            "cosc": "rgba(205,133,133,.5)",
+            "cosd": "86px",
+            "cose": "Sidebar",
+            "cosf": "#ffffff",
+            "cosg": "11px"
           }
         }
       },
