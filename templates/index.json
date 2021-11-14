@@ -35,10 +35,29 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "163688206294794272": {
+      "type": "apps",
+      "blocks": {
+        "9a86a657-99e3-44b6-aef9-75e686f55342": {
+          "type": "shopify:\/\/apps\/mulob\/blocks\/app-block\/edfc7fbe-5d7b-4a95-9545-176a0eacdb72",
+          "settings": {
+            "abackground": "#008066",
+            "aheight": "86px"
+          }
+        }
+      },
+      "block_order": [
+        "9a86a657-99e3-44b6-aef9-75e686f55342"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "16368287856434f6d4",
-    "163682936601c62630"
+    "163682936601c62630",
+    "163688206294794272"
   ]
 }
