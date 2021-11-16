@@ -42,7 +42,7 @@
         "2d7c1a87-5fba-4213-8fdb-6aaefc472b6b": {
           "type": "shopify:\/\/apps\/mulob\/blocks\/app-block\/edfc7fbe-5d7b-4a95-9545-176a0eacdb72",
           "settings": {
-            "cosa": "right",
+            "cosa": "left",
             "cosb": "156px",
             "cosc": "rgba(205,133,133,.5)",
             "cosd": "86px",
