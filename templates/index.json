@@ -39,7 +39,7 @@
     "16369084206f571250": {
       "type": "apps",
       "blocks": {
-        "2d7c1a87-5fba-4213-8fdb-6aaefc472b6b": {
+        "9563d132-10d0-492d-87e3-31a0f427c8df": {
           "type": "shopify:\/\/apps\/mulob\/blocks\/app-block\/edfc7fbe-5d7b-4a95-9545-176a0eacdb72",
           "settings": {
             "cosa": "right",
@@ -50,19 +50,16 @@
             "cosf": "#ffffff",
             "cosg": "14px",
             "cosh": "",
-            "cova": "Members",
-            "covb": "#2a2525",
-            "covc": "15px",
-            "covg": "bolder",
-            "covh": "italic",
-            "covd": "<svg fill=\"#000000\" height=\"24\" viewbox=\"0 0 24 24\" width=\"24\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n    <path d=\"M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z\"><\/path>\n    <path d=\"M0 0h24v24H0z\" fill=\"none\"><\/path>\n<\/svg>",
-            "cove": "",
-            "covf": "chivo_n4"
+            "cova": "Member",
+            "covb": "#727272",
+            "covc": "16px",
+            "covd": "",
+            "cove": ""
           }
         }
       },
       "block_order": [
-        "2d7c1a87-5fba-4213-8fdb-6aaefc472b6b"
+        "9563d132-10d0-492d-87e3-31a0f427c8df"
       ],
       "settings": {
         "include_margins": true
