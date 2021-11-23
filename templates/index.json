@@ -24,7 +24,7 @@
         "9563d132-10d0-492d-87e3-31a0f427c8df": {
           "type": "shopify:\/\/apps\/mulob\/blocks\/app-block\/edfc7fbe-5d7b-4a95-9545-176a0eacdb72",
           "settings": {
-            "cosa": "right",
+            "cosa": "left",
             "cosb": "156px",
             "cosc": "rgba(205,133,133,.5)",
             "cose": "Sidebar",
