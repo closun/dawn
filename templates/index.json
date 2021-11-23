@@ -18,31 +18,13 @@
         "include_margins": true
       }
     },
-    "163682936601c62630": {
-      "type": "apps",
-      "blocks": {
-        "5706f406-b10a-4275-a287-a1a0367e6b3c": {
-          "type": "shopify:\/\/apps\/muloa\/blocks\/app-block\/460d93b9-235b-401d-ab0d-7fda966b7d31",
-          "settings": {
-            "heading": "云启阳图片测试",
-            "description": "幸运的小狗狗！"
-          }
-        }
-      },
-      "block_order": [
-        "5706f406-b10a-4275-a287-a1a0367e6b3c"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
     "16369084206f571250": {
       "type": "apps",
       "blocks": {
         "9563d132-10d0-492d-87e3-31a0f427c8df": {
           "type": "shopify:\/\/apps\/mulob\/blocks\/app-block\/edfc7fbe-5d7b-4a95-9545-176a0eacdb72",
           "settings": {
-            "cosa": "left",
+            "cosa": "right",
             "cosb": "156px",
             "cosc": "rgba(205,133,133,.5)",
             "cose": "Sidebar",
@@ -80,7 +62,6 @@
   },
   "order": [
     "16368287856434f6d4",
-    "163682936601c62630",
     "16369084206f571250"
   ]
 }
