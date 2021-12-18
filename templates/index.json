@@ -105,12 +105,19 @@
         "button_link": "",
         "swipe_on_mobile": false
       }
+    },
+    "1639835560e7da974d": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"closun\">\n测试点击\n<\/div>"
+      }
     }
   },
   "order": [
     "16368287856434f6d4",
     "16369084206f571250",
     "1639021777fcc63db0",
-    "1639822279b72f6f8e"
+    "1639822279b72f6f8e",
+    "1639835560e7da974d"
   ]
 }
