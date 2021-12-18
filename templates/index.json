@@ -111,6 +111,23 @@
       "settings": {
         "custom_liquid": "<div class=\"closun\">\n测试点击\n<\/div>"
       }
+    },
+    "1639835612026263ee": {
+      "type": "apps",
+      "blocks": {
+        "2aa5d092-9082-4163-9650-4a4a1bbabd29": {
+          "type": "shopify:\/\/apps\/half-screen_dialog\/blocks\/app-block\/31c884f6-fe3e-4480-96dd-2f7cf1f0f3be",
+          "settings": {
+            "title": "Multicolumn"
+          }
+        }
+      },
+      "block_order": [
+        "2aa5d092-9082-4163-9650-4a4a1bbabd29"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -118,6 +135,7 @@
     "16369084206f571250",
     "1639021777fcc63db0",
     "1639822279b72f6f8e",
-    "1639835560e7da974d"
+    "1639835560e7da974d",
+    "1639835612026263ee"
   ]
 }
