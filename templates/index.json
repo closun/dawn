@@ -68,7 +68,7 @@
     "1639835560e7da974d": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"page-with closun\">\n测试点击\n<\/div>"
+        "custom_liquid": "<style>\n\n<\/style>\n\n<div class=\"closun\">\n<h4>双 旦 大 促<\/h4>\n<p>全场3折起<\/p>\n<\/div>"
       }
     },
     "1639835612026263ee": {
