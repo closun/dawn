@@ -77,7 +77,11 @@
         "2aa5d092-9082-4163-9650-4a4a1bbabd29": {
           "type": "shopify:\/\/apps\/half-screen_dialog\/blocks\/app-block\/31c884f6-fe3e-4480-96dd-2f7cf1f0f3be",
           "settings": {
-            "getdiv": ".closun"
+            "liquid": "<div class=\"closun-hsd\"><h3>Happy new year<\/h3><p>Up to 30% off<\/p><\/div>",
+            "getdiv": ".closun-hsd",
+            "htitle": "Happy new year",
+            "htitlesub": "Up to 30% off",
+            "hliquid": "<div class=\"closun-hsd\"><h3>Happy new year<\/h3><p>Up to 30% off<\/p><\/div>"
           }
         }
       },
