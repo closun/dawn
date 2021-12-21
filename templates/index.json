@@ -67,20 +67,28 @@
     },
     "1639835612026263ee": {
       "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "16400907297eec1b78": {
+      "type": "apps",
       "blocks": {
-        "2aa5d092-9082-4163-9650-4a4a1bbabd29": {
+        "87d39d85-261f-48b7-bc3b-1e5311e8abbe": {
           "type": "shopify:\/\/apps\/half-screen_dialog\/blocks\/app-block\/31c884f6-fe3e-4480-96dd-2f7cf1f0f3be",
           "settings": {
             "liquid": "<div class=\"closun-hsd\"><h3>Happy new year<\/h3><p>Up to 30% off<\/p><\/div>",
             "getdiv": ".closun-hsd",
+            "height": "78vh",
+            "covf": "follow",
             "htitle": "Happy new year",
             "htitlesub": "Up to 30% off",
-            "hliquid": "<div class=\"closun-hsd\"><h3>Happy new year<\/h3><p>Up to 30% off<\/p><\/div>"
+            "hliquid": "<ul><li><a href=\"\/\"><div>curtians<\/div><div>30% off<\/div><\/a><\/li><\/ul>"
           }
         }
       },
       "block_order": [
-        "2aa5d092-9082-4163-9650-4a4a1bbabd29"
+        "87d39d85-261f-48b7-bc3b-1e5311e8abbe"
       ],
       "settings": {
         "include_margins": true
@@ -91,6 +99,7 @@
     "16368287856434f6d4",
     "16369084206f571250",
     "1639021777fcc63db0",
-    "1639835612026263ee"
+    "1639835612026263ee",
+    "16400907297eec1b78"
   ]
 }
