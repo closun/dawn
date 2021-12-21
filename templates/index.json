@@ -65,12 +65,6 @@
         "include_margins": true
       }
     },
-    "1639835560e7da974d": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<style>\n\n<\/style>\n\n<div class=\"closun\">\n<h4>双 旦 大 促<\/h4>\n<p>全场3折起<\/p>\n<\/div>"
-      }
-    },
     "1639835612026263ee": {
       "type": "apps",
       "blocks": {
@@ -97,7 +91,6 @@
     "16368287856434f6d4",
     "16369084206f571250",
     "1639021777fcc63db0",
-    "1639835560e7da974d",
     "1639835612026263ee"
   ]
 }
