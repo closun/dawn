@@ -78,7 +78,7 @@
     "blocks": {
       "11682956575042932929": {
         "type": "shopify:\/\/apps\/muloa\/blocks\/app-embed\/460d93b9-235b-401d-ab0d-7fda966b7d31",
-        "disabled": false,
+        "disabled": true,
         "settings": {
           "heading": "Lucky Dog!"
         }
