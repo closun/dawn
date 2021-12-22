@@ -50,24 +50,35 @@
             "coye": "",
             "coyd": ""
           }
-        },
-        "cbe52310-10ae-4dda-9f42-55639addaaad": {
+        }
+      },
+      "block_order": [
+        "3e3b699d-2b0f-4905-8575-a1688054837b"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "16401464639b1c421b": {
+      "type": "apps",
+      "blocks": {
+        "9100e322-f037-44bc-bf3e-e1eedd6c82f4": {
           "type": "shopify:\/\/apps\/half-screen_dialog\/blocks\/app-block\/31c884f6-fe3e-4480-96dd-2f7cf1f0f3be",
           "settings": {
             "liquid": "<div class=\"closun-hsd\"><h3>Happy new year<\/h3><p>Up to 30% off<\/p><\/div>",
             "getdiv": ".closun-hsd",
             "height": "78vh",
-            "covf": "follow",
+            "hpc": "follow",
             "htitle": "Happy new year",
             "htitlesub": "Up to 30% off",
-            "hclose": "朕知道了",
-            "hliquid": "<ul class=\"closun-hsc\"><li><a href=\"\/\"><div class=\"l\">curtians<\/div><div class=\"m\">30% off<\/div><div class=\"r\">>>><\/div><\/a><\/li><\/ul>"
+            "hclose": "",
+            "hcloso": "#008066",
+            "hliquid": "<ul class=\"closun-hsc\"><li><a href=\"\/\"><div class=\"l\">curtians<\/div><div class=\"m\">Up to 30% off<\/div><div class=\"r\">>>><\/div><\/a><\/li><\/ul>"
           }
         }
       },
       "block_order": [
-        "3e3b699d-2b0f-4905-8575-a1688054837b",
-        "cbe52310-10ae-4dda-9f42-55639addaaad"
+        "9100e322-f037-44bc-bf3e-e1eedd6c82f4"
       ],
       "settings": {
         "include_margins": true
@@ -76,6 +87,7 @@
   },
   "order": [
     "16368287856434f6d4",
-    "1639021777fcc63db0"
+    "1639021777fcc63db0",
+    "16401464639b1c421b"
   ]
 }
