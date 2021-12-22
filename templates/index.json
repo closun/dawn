@@ -68,7 +68,7 @@
             "liquid": "<div class=\"closun-hsd\"><h3>Happy new year<\/h3><p>Up to 30% off<\/p><\/div>",
             "getdiv": ".closun-hsd",
             "height": "78vh",
-            "hpc": "clickfollow",
+            "hpc": "follow",
             "htitle": "Happy new year",
             "htitlesub": "Up to 30% off",
             "hclose": "",
