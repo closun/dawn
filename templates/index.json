@@ -61,25 +61,6 @@
     },
     "16401464639b1c421b": {
       "type": "apps",
-      "blocks": {
-        "9100e322-f037-44bc-bf3e-e1eedd6c82f4": {
-          "type": "shopify:\/\/apps\/half-screen_dialog\/blocks\/app-block\/31c884f6-fe3e-4480-96dd-2f7cf1f0f3be",
-          "settings": {
-            "liquid": "<div class=\"closun-hsd\"><h3>Happy new year<\/h3><p>Up to 30% off<\/p><\/div>",
-            "getdiv": ".closun-hsd",
-            "height": "78vh",
-            "hpc": "clickfollow",
-            "htitle": "Happy new year",
-            "htitlesub": "Up to 30% off",
-            "hclose": "",
-            "hcloso": "#008066",
-            "hliquid": "<ul class=\"closun-hsc\"><li><a href=\"\/\"><div class=\"l\">curtians<\/div><div class=\"m\">Up to 30% off<\/div><div class=\"r\">>>><\/div><\/a><\/li><\/ul>"
-          }
-        }
-      },
-      "block_order": [
-        "9100e322-f037-44bc-bf3e-e1eedd6c82f4"
-      ],
       "settings": {
         "include_margins": true
       }
