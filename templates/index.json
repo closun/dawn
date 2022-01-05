@@ -17,9 +17,51 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "1641426785d525ac3c": {
+      "type": "apps",
+      "blocks": {
+        "6536be28-07bd-41e7-940c-552a0eb8a2f2": {
+          "type": "shopify:\/\/apps\/mulob\/blocks\/app-block\/edfc7fbe-5d7b-4a95-9545-176a0eacdb72",
+          "settings": {
+            "cosa": "right",
+            "cosb": "156px",
+            "cosc": "rgba(205,133,133,.5)",
+            "cose": "Sidebar",
+            "cosf": "#ffffff",
+            "cosg": "14px",
+            "cosh": "",
+            "cova": "Member",
+            "covb": "#727272",
+            "covc": "16px",
+            "covf": "left",
+            "cove": "",
+            "covd": "",
+            "cowa": "Cart",
+            "cowc": "16px",
+            "cowf": "center",
+            "cowe": "",
+            "cowd": "",
+            "coxa": "Email",
+            "coxb": "#999999",
+            "coxe": "",
+            "coxd": "",
+            "coya": "Online",
+            "coye": "",
+            "coyd": ""
+          }
+        }
+      },
+      "block_order": [
+        "6536be28-07bd-41e7-940c-552a0eb8a2f2"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
-    "16368287856434f6d4"
+    "16368287856434f6d4",
+    "1641426785d525ac3c"
   ]
 }
