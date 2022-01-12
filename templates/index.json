@@ -71,7 +71,7 @@
             "icon": "b",
             "pur": "none",
             "ae": "closun-home",
-            "aa": "<p><a href=\"\/\" title=\"Home\">Home<\/a><\/p>",
+            "aa": "<p><a href=\"https:\/\/mulcos.myshopify.com\" title=\"Home\">noicon<\/a><\/p>",
             "ac": "#828282",
             "ab": "#f9f9f9",
             "be": "closun-cart",
