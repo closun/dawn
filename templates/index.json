@@ -51,13 +51,13 @@
             "coyd": ""
           }
         },
-        "0ea3a5b8-1680-4489-b8df-3cdad62f3541": {
+        "f1256484-58e1-4bc7-91b6-d621b5e3910d": {
           "type": "shopify:\/\/apps\/mobil_design_bottom_nav\/blocks\/app-block\/cca726fd-f06e-4870-be91-f957f6d936b4",
           "settings": {
             "fs": "14px",
             "height": "auto",
-            "width": "",
-            "icon": "a",
+            "width": "1\/1.4\/2",
+            "icon": "b",
             "pur": "none",
             "ae": "closun-home",
             "aa": "<p><a href=\"\/\" title=\"Home\">Home<\/a><\/p>",
@@ -80,7 +80,7 @@
       },
       "block_order": [
         "6536be28-07bd-41e7-940c-552a0eb8a2f2",
-        "0ea3a5b8-1680-4489-b8df-3cdad62f3541"
+        "f1256484-58e1-4bc7-91b6-d621b5e3910d"
       ],
       "settings": {
         "include_margins": true
