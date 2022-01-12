@@ -50,8 +50,19 @@
             "coye": "",
             "coyd": ""
           }
-        },
-        "f1256484-58e1-4bc7-91b6-d621b5e3910d": {
+        }
+      },
+      "block_order": [
+        "6536be28-07bd-41e7-940c-552a0eb8a2f2"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "16420264980bfd94c0": {
+      "type": "apps",
+      "blocks": {
+        "d931403f-1037-4a51-a1dc-0376a2194acd": {
           "type": "shopify:\/\/apps\/mobil_design_bottom_nav\/blocks\/app-block\/cca726fd-f06e-4870-be91-f957f6d936b4",
           "settings": {
             "fs": "14px",
@@ -79,8 +90,7 @@
         }
       },
       "block_order": [
-        "6536be28-07bd-41e7-940c-552a0eb8a2f2",
-        "f1256484-58e1-4bc7-91b6-d621b5e3910d"
+        "d931403f-1037-4a51-a1dc-0376a2194acd"
       ],
       "settings": {
         "include_margins": true
@@ -89,6 +99,7 @@
   },
   "order": [
     "16368287856434f6d4",
-    "1641426785d525ac3c"
+    "1641426785d525ac3c",
+    "16420264980bfd94c0"
   ]
 }
