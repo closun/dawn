@@ -55,7 +55,7 @@
           "type": "shopify:\/\/apps\/mobil_design_bottom_nav\/blocks\/app-block\/cca726fd-f06e-4870-be91-f957f6d936b4",
           "settings": {
             "fs": "14px",
-            "height": "56px",
+            "height": "auto",
             "width": "1\/1\/1.5\/2",
             "icon": "b",
             "pur": "none",
