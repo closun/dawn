@@ -50,8 +50,19 @@
             "coye": "",
             "coyd": ""
           }
-        },
-        "70da4904-8747-4dcf-9434-5a7a10701975": {
+        }
+      },
+      "block_order": [
+        "6536be28-07bd-41e7-940c-552a0eb8a2f2"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "164176695177e82ce3": {
+      "type": "apps",
+      "blocks": {
+        "c108121a-a926-46d7-9619-f2994546084e": {
           "type": "shopify:\/\/apps\/mobil_design_bottom_nav\/blocks\/app-block\/cca726fd-f06e-4870-be91-f957f6d936b4",
           "settings": {
             "fs": "14px",
@@ -60,34 +71,27 @@
             "icon": "b",
             "pur": "none",
             "ae": "closun-home",
-            "aa": "",
-            "ac": "#777",
-            "ab": "#f7f7f7",
-            "be": "closun",
-            "ba": "<p>Email<\/p>",
-            "bc": "#777",
-            "bb": "#f7f7f7",
-            "ce": "closun",
-            "ca": "<p>Cart<\/p>",
-            "cc": "#777",
-            "cb": "#f7f7f7",
-            "de": "closun",
-            "da": "<p>Checkout<\/p>",
-            "dc": "#777",
-            "db": "#f7f7f7"
+            "aa": "<p><a href=\"\/\" title=\"Home\">Home<\/a><\/p>",
+            "ac": "#828282",
+            "ab": "#f9f9f9",
+            "be": "closun-cart",
+            "ba": "<p><a href=\"\/cart\" title=\"Cart\">Cart<\/a><\/p>",
+            "bc": "#828282",
+            "bb": "#f9f9f9",
+            "ce": "closun-Checkout",
+            "ca": "<p>Checkout<\/p>",
+            "cc": "#828282",
+            "cb": "#f9f9f9",
+            "de": "",
+            "da": "",
+            "dc": "#828282",
+            "db": "#f9f9f9"
           }
         }
       },
       "block_order": [
-        "6536be28-07bd-41e7-940c-552a0eb8a2f2",
-        "70da4904-8747-4dcf-9434-5a7a10701975"
+        "c108121a-a926-46d7-9619-f2994546084e"
       ],
-      "settings": {
-        "include_margins": true
-      }
-    },
-    "164176695177e82ce3": {
-      "type": "apps",
       "settings": {
         "include_margins": true
       }
