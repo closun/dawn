@@ -50,28 +50,17 @@
             "coye": "",
             "coyd": ""
           }
-        }
-      },
-      "block_order": [
-        "6536be28-07bd-41e7-940c-552a0eb8a2f2"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
-    "164176695177e82ce3": {
-      "type": "apps",
-      "blocks": {
-        "c108121a-a926-46d7-9619-f2994546084e": {
+        },
+        "0ea3a5b8-1680-4489-b8df-3cdad62f3541": {
           "type": "shopify:\/\/apps\/mobil_design_bottom_nav\/blocks\/app-block\/cca726fd-f06e-4870-be91-f957f6d936b4",
           "settings": {
             "fs": "14px",
             "height": "auto",
-            "width": "1\/1\/1.5\/2",
+            "width": "1\/1.4\/2",
             "icon": "b",
             "pur": "none",
             "ae": "closun-home",
-            "aa": "<p><a href=\"https:\/\/mulcos.myshopify.com\" title=\"Home\">noicon<\/a><\/p>",
+            "aa": "<p><a href=\"\/\" title=\"Home\">noicon<\/a><\/p>",
             "ac": "#828282",
             "ab": "#f9f9f9",
             "be": "closun-cart",
@@ -90,7 +79,8 @@
         }
       },
       "block_order": [
-        "c108121a-a926-46d7-9619-f2994546084e"
+        "6536be28-07bd-41e7-940c-552a0eb8a2f2",
+        "0ea3a5b8-1680-4489-b8df-3cdad62f3541"
       ],
       "settings": {
         "include_margins": true
@@ -99,7 +89,6 @@
   },
   "order": [
     "16368287856434f6d4",
-    "1641426785d525ac3c",
-    "164176695177e82ce3"
+    "1641426785d525ac3c"
   ]
 }
