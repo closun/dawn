@@ -61,14 +61,20 @@
     },
     "16420264980bfd94c0": {
       "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "1642031907c34c9ba5": {
+      "type": "apps",
       "blocks": {
-        "d931403f-1037-4a51-a1dc-0376a2194acd": {
+        "f4581998-8b3c-44b9-869f-967edef98c06": {
           "type": "shopify:\/\/apps\/mobil_design_bottom_nav\/blocks\/app-block\/cca726fd-f06e-4870-be91-f957f6d936b4",
           "settings": {
             "fs": "14px",
-            "height": "auto",
+            "height": "24px",
             "width": "1\/1.4\/2",
-            "icon": "a",
+            "icon": "b",
             "pur": "none",
             "ae": "closun-home",
             "aa": "<p><a href=\"\/\" title=\"Home\">Home<\/a><\/p>",
@@ -78,7 +84,7 @@
             "ba": "<p><a href=\"\/cart\" title=\"Cart\">Cart<\/a><\/p>",
             "bc": "#828282",
             "bb": "#f9f9f9",
-            "ce": "closun-Checkout",
+            "ce": "closun-checkout",
             "ca": "<p>Checkout<\/p>",
             "cc": "#828282",
             "cb": "#f9f9f9",
@@ -90,7 +96,7 @@
         }
       },
       "block_order": [
-        "d931403f-1037-4a51-a1dc-0376a2194acd"
+        "f4581998-8b3c-44b9-869f-967edef98c06"
       ],
       "settings": {
         "include_margins": true
@@ -100,6 +106,7 @@
   "order": [
     "16368287856434f6d4",
     "1641426785d525ac3c",
-    "16420264980bfd94c0"
+    "16420264980bfd94c0",
+    "1642031907c34c9ba5"
   ]
 }
