@@ -3,11 +3,53 @@
     "main": {
       "type": "main-list-collections",
       "settings": {
-        "image_ratio": "square"
+        "title": "Collections",
+        "sort": "alphabetical",
+        "image_ratio": "square",
+        "color_scheme": "background-1",
+        "image_padding": false
+      }
+    },
+    "16420648336a5e5312": {
+      "type": "apps",
+      "blocks": {
+        "bd0689e3-550a-48ac-8403-965ca0577f25": {
+          "type": "shopify:\/\/apps\/mobil_design_bottom_nav\/blocks\/app-block\/cca726fd-f06e-4870-be91-f957f6d936b4",
+          "settings": {
+            "fs": "14px",
+            "height": "24px",
+            "width": "1\/1\/1.8\/3",
+            "icon": "b",
+            "pur": "none",
+            "ae": "closun-home",
+            "aa": "<p><a href=\"\/\" title=\"Home\">Home<\/a><\/p>",
+            "ac": "#828282",
+            "ab": "#f9f9f9",
+            "be": "closun-cart",
+            "ba": "<p><a href=\"\/cart\" title=\"Cart\">Cart<\/a><\/p>",
+            "bc": "#777777",
+            "bb": "#c3c3c3",
+            "ce": "closun-addcart",
+            "ca": "<p>Add to Cart<\/p>",
+            "cc": "#d9d9d9",
+            "cb": "#828282",
+            "de": "closun-checkout",
+            "da": "<p>Checkout<\/p>",
+            "dc": "#d9d9d9",
+            "db": "#282828"
+          }
+        }
+      },
+      "block_order": [
+        "bd0689e3-550a-48ac-8403-965ca0577f25"
+      ],
+      "settings": {
+        "include_margins": true
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "16420648336a5e5312"
   ]
 }
